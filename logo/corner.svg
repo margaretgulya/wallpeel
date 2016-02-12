@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="40"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="C:\Users\margaret.gulya\Downloads\wallpeel\logo\peelcorner.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="corner.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4093">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="0"
+         id="stop4095" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop4097" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="11.182797"
+     inkscape:cy="21.603367"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3773"
+     showgrid="false"
+     inkscape:window-width="1418"
+     inkscape:window-height="804"
+     inkscape:window-x="466"
+     inkscape:window-y="125"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     transform="translate(-218.80175,-49.698183)">
+    <path
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline"
+       d="m 267.41935,78.309576 0,16.1803 c 0,2.39257 -1.92615,4.31871 -4.31872,4.31871 l -115.7718,0 c -2.39257,0 -4.31872,-1.92614 -4.31872,-4.31871 l 0,-28.39361 c 0,-2.39257 1.92615,-4.31871 4.31872,-4.31871 l 0,0 103.55405,0"
+       id="path3798-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#666666;fill-opacity:1;stroke:none;display:inline"
+       d="m 300.58966,58.485337 -12.21775,0 c -2.39257,0 -4.31872,-1.926139 -4.31872,-4.318709 l 0,-12.21332"
+       id="rect2989-1-0-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;display:inline"
+       d="M 308.22375,56.005643 297.256,54.934214 c -2.38123,-0.23262 -4.05197,-1.941056 -4.31872,-4.31871 l -1.25,-11.141891"
+       id="rect2989-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.8350296px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Monotype Corsiva;-inkscape-font-specification:Monotype Corsiva Oblique"
+       x="191.58281"
+       y="67.301781"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="191.58281"
+         y="67.301781"
+         style="font-size:23.7525444px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Calibri;-inkscape-font-specification:Calibri Bold">WallPeel</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer"
+     style="opacity:0.98000004;display:none"
+     transform="translate(-218.80175,-49.698183)">
+    <path
+       style="fill:#c8b7b7;fill-opacity:1;stroke:none;display:inline"
+       d="m 312.1675,90.418194 0,16.180296 c 0,2.39257 -1.92615,4.31871 -4.31872,4.31871 l -115.7718,0 c -2.39257,0 -4.31872,-1.92614 -4.31872,-4.31871 l 0,-28.393606 c 0,-2.39257 1.92615,-4.31871 4.31872,-4.31871 l 0,0 103.55405,0"
+       id="path3798"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#c8b7b7;fill-opacity:1;stroke:none;display:inline"
+       d="m 267.267,94.606619 12.21775,0 c 2.39257,0 4.31872,1.92614 4.31872,4.31871 l 0,12.213311"
+       id="rect2989-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#666666;fill-opacity:1;stroke:none;display:inline"
+       d="m 235.40655,89.75883 -12.21775,0 c -2.39257,0 -4.31872,-1.926139 -4.31872,-4.318709 l 0,-12.21332"
+       id="rect2989-1-0-9-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none;display:inline"
+       d="m 243.04064,87.279136 -10.96775,-1.071429 c -2.38123,-0.23262 -4.05197,-1.941056 -4.31872,-4.31871 l -1.25,-11.141891"
+       id="rect2989-1-0-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="bg"
+     style="display:inline"
+     transform="translate(0,23.46797)" />
+  <g
+     inkscape:label="Layer copy"
+     id="g3773"
+     inkscape:groupmode="layer"
+     style="display:inline"
+     transform="translate(-218.80175,-49.698183)">
+    <path
+       style="fill:#666666;fill-opacity:1;stroke:none;display:inline"
+       d="m 258.78144,89.75883 -29.3959,0 c -5.75652,0 -10.39083,-4.643347 -10.39083,-10.411121 l 0,-29.442675"
+       id="rect2989-1-0-9-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;stroke:none;display:inline"
+       d="m 258.61704,89.612628 -26.3884,-2.582896 C 226.4994,86.468955 222.47961,82.350424 221.8378,76.618609 L 218.83031,49.75883"
+       id="rect2989-1-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 218.78144,49.763738 39.79523,0.149825 0,39.699084 z"
+       id="path4125"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

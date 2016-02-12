@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="648"
+   height="432"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-156,-358.4649)"
+     id="layer1">
+    <rect
+       width="432"
+       height="54"
+       x="358.4649"
+       y="-210"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="rect6132-9"
+       style="fill:#1a1a1a;fill-opacity:1;display:inline" />
+    <rect
+       width="432"
+       height="54"
+       x="358.4649"
+       y="-318"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="rect6871"
+       style="fill:#1a1a1a;fill-opacity:1;display:inline" />
+    <rect
+       width="432"
+       height="54"
+       x="358.4649"
+       y="-425.99997"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="rect6873"
+       style="fill:#1a1a1a;fill-opacity:1;display:inline" />
+    <rect
+       width="432"
+       height="54"
+       x="358.4649"
+       y="-534.00006"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="rect6875"
+       style="fill:#1a1a1a;fill-opacity:1;display:inline" />
+    <rect
+       width="432"
+       height="54"
+       x="358.4649"
+       y="-641.99994"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="rect6877"
+       style="fill:#1a1a1a;fill-opacity:1;display:inline" />
+    <rect
+       width="432"
+       height="54"
+       x="358.4649"
+       y="-750"
+       transform="matrix(0,1,-1,0,0,0)"
+       id="rect6879"
+       style="fill:#1a1a1a;fill-opacity:1;display:inline" />
+  </g>
+</svg>

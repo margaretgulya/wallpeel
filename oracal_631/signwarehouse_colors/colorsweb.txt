@@ -1,0 +1,23 @@
+White f7f7f7
+Black 000000
+Dark Grey 58595B
+Blue 2a5985
+Dark Brown 684A42
+
+Orange Red CC463B
+Dark Red AF313D
+Olive 919467
+Celadon BAC293
+Purple 674B74
+
+Lime Green 7CAB4D
+Yellow EDCB34
+Pink C04178
+Turquoise 12A3A0
+Mint 79D2BE
+
+Beige CFC1A4
+Nut Brown B26646
+Light Brown A98C6C
+Metalic Silver 909495
+Metalic Gold 9F8759
